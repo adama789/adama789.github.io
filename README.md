@@ -1,2 +1,2 @@
-# adama789.github.io/Personal-website/
+# adama789.github.io
 Personal Website
