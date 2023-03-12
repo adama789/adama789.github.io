@@ -1,4 +1,4 @@
-# adama789.github.io
+[Website link](https://adama789.github.io/)
 ## Personal Website
 
 ## Special Directories
